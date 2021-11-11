@@ -1,5 +1,5 @@
 def sum_func():
-    result=0
+    result = 0
     while True:
         list = input("введите числа через пробел, для завершения введите s: ").split()
         for i in list:
@@ -13,4 +13,3 @@ def sum_func():
 
 
 sum_func()
-
